@@ -5,3 +5,7 @@
     - chobig 모델들이 어느정도 틀이 갖춰진 듯 하다.
     - 이제 좀 논문 읽기가 하고 싶을지도?
     - 근데 북커톤..
+- 2023/01/05
+    - 북커톤 다신 안함
+    - HuggingFace 의 BigBird 는 attention_type 이 block_sparse 일 때 is_decoder 로 decoder 로의 변경이 불가함. (<-- 당연한건데, 그냥 내가 안일했음)
+    - GPT 더 큰거, 더 작은거 학습하자.
