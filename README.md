@@ -9,3 +9,6 @@
     - 북커톤 다신 안함
     - HuggingFace 의 BigBird 는 attention_type 이 block_sparse 일 때 is_decoder 로 decoder 로의 변경이 불가함. (<-- 당연한건데, 그냥 내가 안일했음)
     - GPT 더 큰거, 더 작은거 학습하자.
+- 2023/12/07
+    - LLM 에 붙일 VectorDB 및 RAG 를 위한 전체 시스템을 구성하는 일을 하고 있는데, 꽤 재미있다.
+    - 연구든 개발이든, 뭔가를 만드는게 내 취향인듯
